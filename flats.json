@@ -39,7 +39,7 @@
     "id": 210,
     "name": "Filipino Chinese Friendship Pagoda",
     "imageUrl": "https://s-media-cache-ak0.pinimg.com/originals/42/a7/25/42a7250b42c869befbc20c639e5f778f.jpg",
-    "price": 135,
+    "price": 40,
     "priceCurrency": "PHP",
     "lat": 16.614513,
     "lng": 120.319146
@@ -48,7 +48,7 @@
     "id": 211,
     "name": "Paradiso Beach Resort",
     "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipOLKuYruIzmW732s3NGmw3aG3z67Ak54RiH-U6v=s1600-w400",
-    "price": 150,
+    "price": 50,
     "priceCurrency": "PHP",
     "lat": 16.396831,
     "lng": 120.327048
@@ -57,7 +57,7 @@
     "id": 212,
     "name": "Baluarte of Luna La Union",
     "imageUrl": "https://images.summitmedia-digital.com/spotph/images/2017/04/24/la_union_baluarteinside_REV.jpg",
-    "price": 150,
+    "price": 60,
     "priceCurrency": "PHP",
     "lat": 16.857178,
     "lng": 120.372904
@@ -66,7 +66,7 @@
     "id": 213,
     "name": "Pugad Adventure Resort",
     "imageUrl": "http://www.swimandpools.com/wp-content/uploads/2012/09/pugadresort_web.jpg",
-    "price": 150,
+    "price": 70,
     "priceCurrency": "PHP",
     "lat": 16.337046,
     "lng": 120.478805
@@ -75,7 +75,7 @@
     "id": 214,
     "name": "Pindangan Ruins",
     "imageUrl": "https://media-cdn.tripadvisor.com/media/photo-w/07/b4/7d/ad/pindangan-ruins.jpg",
-    "price": 150,
+    "price": 80,
     "priceCurrency": "PHP",
     "lat": 16.588490,
     "lng": 120.314598
@@ -84,7 +84,7 @@
     "id": 215,
     "name": "Bust of Ferdinand Marcos",
     "imageUrl": "http://www.michaeljohngrist.com/wp-content/uploads/2009/09/Marcos-2.jpg",
-    "price": 150,
+    "price": 90,
     "priceCurrency": "PHP",
     "lat": 16.354087,
     "lng": 120.489919
@@ -93,7 +93,7 @@
     "id": 216,
     "name": "Gapuz Grapes Farm",
     "imageUrl": "http://1.bp.blogspot.com/-xzqvWjNefaw/U3NOOa0ph3I/AAAAAAAAGdU/5VBjYhuGOB0/s1600/Vineyards005.JPG",
-    "price": 150,
+    "price": 100,
     "priceCurrency": "PHP",
     "lat": 16.461416,
     "lng": 120.333904
@@ -102,7 +102,7 @@
     "id": 217,
     "name": "Ma-Cho Temple",
     "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/MaChoTemplejf501.JPG/390px-MaChoTemplejf501.JPG",
-    "price": 150,
+    "price": 110,
     "priceCurrency": "PHP",
     "lat": 16.621534,
     "lng": 120.317456
