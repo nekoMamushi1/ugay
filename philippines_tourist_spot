@@ -47,7 +47,7 @@
   {
     "id": 225,
     "name": "Taal Volcano",
-    "imageUrl": "https://www.palawandays.com/wp-content/uploads/2016/08/Taal-volcano-luzon.jpg,
+    "imageUrl": "https://www.palawandays.com/wp-content/uploads/2016/08/Taal-volcano-luzon.jpg",
     "price": 252,
     "priceCurrency": "PHP",
     "lat": 14.012586,
@@ -56,7 +56,7 @@
   {
     "id": 226,
     "name": "Mayon Volcano",
-    "imageUrl": "http://primer.com.ph/travel/wp-content/uploads/sites/6/2016/03/mt.-mayon-1024x714.jpg,
+    "imageUrl": "http://primer.com.ph/travel/wp-content/uploads/sites/6/2016/03/mt.-mayon-1024x714.jpg",
     "price": 705.7,
     "priceCurrency": "PHP",
     "lat": 13.255884,
@@ -97,5 +97,50 @@
     "priceCurrency": "PHP",
     "lat": 16.192473,
     "lng": 120.003956
+  },
+  {
+    "id": 231,
+    "name": "Batan Island",
+    "imageUrl": "https://insights.looloo.com/wp-content/uploads/2014/10/Marlboro-Country-Batanes-Philippines.jpg",
+    "price": 485,
+    "priceCurrency": "PHP",
+    "lat": 20.383157,
+    "lng": 121.933865
+  },
+  {
+    "id": 232,
+    "name": "Corregidor (Bataan)",
+    "imageUrl": "http://packages.asiatravel.com/packageImage/Tour/AddtlImages/532/Upload_correidor8.jpg",
+    "price": 205,
+    "priceCurrency": "PHP",
+    "lat": 14.387699,
+    "lng": 120.580105
+  },
+  {
+    "id": 233,
+    "name": "Apo Island",
+    "imageUrl": "https://i.ytimg.com/vi/XerS_efuFQ8/maxresdefault.jpg",
+    "price": 849,
+    "priceCurrency": "PHP",
+    "lat": 9.082973,
+    "lng": 123.271707
+  },
+  {
+    "id": 234,
+    "name": "San Juan La Union (Surfing Capital)",
+    "imageUrl": "http://two2travel.com/wp-content/uploads/2012/12/pjalipayo.jpg",
+    "price": 66.4,
+    "priceCurrency": "PHP",
+    "lat": 16.679337,
+    "lng": 120.336535
+  },
+  {
+    "id": 235,
+    "name": "Magellans Cross (Cebu City)",
+    "imageUrl": "https://s3-ap-southeast-1.amazonaws.com/travel3sixty-media/wp-content/uploads/2016/01/CBU-52-magellans-cross.jpg",
+    "price": 1068.1,
+    "priceCurrency": "PHP",
+    "lat": 10.293937,
+    "lng": 123.901949
   }
 ]
