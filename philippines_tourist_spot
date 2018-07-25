@@ -88,5 +88,14 @@
     "priceCurrency": "PHP",
     "lat": 8.159355,
     "lng": 124.185996
+  },
+  {
+    "id": 230,
+    "name": "Hundred Islands",
+    "imageUrl": "https://d1sttufwfa12ee.cloudfront.net/uploads/deal/thumb/38529.jpg",
+    "price": 97.6,
+    "priceCurrency": "PHP",
+    "lat": 16.192473,
+    "lng": 120.003956
   }
 ]
